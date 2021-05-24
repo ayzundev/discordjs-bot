@@ -22,9 +22,9 @@ Allez dans l'onglet 'Bot' et appuyez sur 'Add Bot'.
 
 Assurez-vous d'abord d'avoir Node.JS installée sur votre PC.
 Si vous ne l'avez toujours pas, installez le ici: 
-https://nodejs.org/en/
+https://nodejs.org/fr/
 
-Ouvrez config.json et copiez le token de votre bot:
+Ensuite, ouvrez config.json et copiez le token de votre bot:
 
 ```
 {
@@ -32,12 +32,12 @@ Ouvrez config.json et copiez le token de votre bot:
 }
 ```
 
-Ouvrez votre console et allez dans le dossier du bot, et installez les modules:
+Puis, ouvrez votre console et allez dans le dossier du bot, et installez les modules:
 ```
 npm install
 ```
 
-Une fois les packages installés, vous pouvez exécuter le bot à l'aide de cette commande:
+Une fois les modules installés, vous pouvez exécuter le bot à l'aide de cette commande:
 ```
 node index.js
 ```
