@@ -2,10 +2,9 @@
 
 🇫🇷 : Ce bot est une template de bot discord fait avec Discord.JS
 
-🇬🇧 : This bot is a template for a discord bot made with Discord.JS
+## Télécharger :
+🇫🇷 > :warning: **Vous pourrez télécharger ce bot bientôt !**
 
-## Télécharger | Download
+## Images :
 
-🇫🇷 > :warning: **Ce projet n'est pas encore commencé**
-
-🇬🇧 > :warning: **This project has not yet started.**
+[LoginBot](https://imgur.com/g3Whd0s)
