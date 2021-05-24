@@ -8,4 +8,4 @@
 
 ## Images :
 
-![LoginBot](https://imgur.com/g3Whd0s)
+![LoginBot](https://i.imgur.com/g3Whd0s.png)
