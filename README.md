@@ -1,8 +1,8 @@
 
-# Discord.JS Template by Ayzun
+# 📰 DiscordJS Bot Template by Ayzun
 
 
-### Prérequis 
+### 📃 Prérequis :
 
 https://discord.com/developers/applications
 
@@ -18,10 +18,11 @@ Allez dans l'onglet 'Bot' et appuyez sur 'Add Bot'.
 ```
 
 
-### Installation
+### 📥 Installation :
 
 Assurez-vous d'abord d'avoir Node.JS installée sur votre PC.
-Si vous ne l'avez toujours pas, installez le ici: https://nodejs.org/en/
+Si vous ne l'avez toujours pas, installez le ici: 
+https://nodejs.org/en/
 
 Ouvrez config.json et copiez le token de votre bot:
 
@@ -42,10 +43,11 @@ node index.js
 ```
 
 Si tout est bon, vous devriez avoir ceci dans votre console:
+
 ![LoginBot](https://i.imgur.com/g3Whd0s.png)
 
 
-Voici quelques liens qui peuvent vous aidez :
+### 🔗 Liens utiles :
 
 https://discord.com/developers/docs/intro
 
